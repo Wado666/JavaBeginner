@@ -1,4 +1,3 @@
-// Nguyen Minh Tung - 24820100059
 package Arr_List_DanhSachPhuongTien;
 
 import QuanLyPhuongTien.Xe;
