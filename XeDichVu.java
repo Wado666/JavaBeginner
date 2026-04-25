@@ -1,4 +1,3 @@
-// Nguyen Minh Tung - 24820100059
 package QuanLyPhuongTien;
 import Libary.InputException;
 import java.util.Scanner;
