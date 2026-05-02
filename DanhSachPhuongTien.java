@@ -64,12 +64,6 @@ public class DanhSachPhuongTien {
     }
 
     public void sapXepTangDanTheoDoanhThu() {
-//        Collections.sort(danhSachXe, new Comparable<Xe>()) {
-//            public int compare(Xe x1, Xe x2) {
-//            return
-//            Double.compare(x1.tinhDoanhThu(), x2.tinhDoanhThu());
-//            }
-//        }
         int n = danhSachXe.size();
         for (int i = 0; i < n - 1; i++) {
             for (int j = i + 1; j < n; j++) {
